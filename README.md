@@ -4,4 +4,4 @@
 
 *Resultado*
 
-![Designfinal](./images/resultadoFinal.png)
+![Design preview for the Four card feature section coding challenge](./images/resultadoFinal.png)
